@@ -65,5 +65,3 @@ if __name__ == "__main__":
             exit()
         else:
             print("\nInvalid choice")
-
-print("hello")
